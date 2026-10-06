@@ -10,4 +10,4 @@ Stata code for my Master of Public Policy thesis at the KDI School of Public Pol
 
 **Data:** Individual-level mortality records, 1997–2023, from the Microdata Integrated Service (MDIS), Statistics Korea. The data is restricted and not included in this repository.
 
-**File:** `thesis_analysis.do` produces the summary statistics, descriptive figures, regression table and event study.
+**File:** `ThesisAnalysis.do` produces the summary statistics, descriptive figures, regression table and event study.
